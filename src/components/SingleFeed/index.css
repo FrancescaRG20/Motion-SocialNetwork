@@ -1,0 +1,27 @@
+.single-feed-wrapper {
+  width: 60vh;
+  display: flex;
+  align-items: flex-start;
+  font-size: 14px;
+}
+
+.singlefeed {
+  margin-left: 15px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.singlefeed-user {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 4vh;
+}
+
+.single-feed-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 9vh;
+}
